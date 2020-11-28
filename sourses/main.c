@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 #define Red 3
 #define Black 2
 #define Empty_Red 1
