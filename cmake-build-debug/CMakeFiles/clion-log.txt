@@ -1,0 +1,9 @@
+/home/kirill/Documents/Clion/clion-2019.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/kirill/Documents/4_semestr/untitled
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/kirill/.hunter
+-- [hunter] [ Hunter-ID: 9a3594a | Toolchain-ID: 9b2c9d4 | Config-ID: 48401e9 ]
+-- [hunter] GUMBO_ROOT: /home/kirill/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install (ver.: 0.10.1)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kirill/Documents/4_semestr/untitled/cmake-build-debug

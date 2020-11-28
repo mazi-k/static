@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kirill/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install/include/gumbo.h
+stdbool.h
+-
+stddef.h
+-
+tag_enum.h
+/home/kirill/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install/include/tag_enum.h
+
+/home/kirill/.hunter/_Base/9a3594a/9b2c9d4/48401e9/Install/include/tag_enum.h
+
+/home/kirill/Documents/4_semestr/untitled/sources/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+cstdlib
+-
+gumbo.h
+-
+
